@@ -1,6 +1,7 @@
 **D3sktop-3, a computer system for intuitive interaction between processes**
 
 (N.B: I don't know if it's possible to make an industrial patent out of something like this; it turned out some patents do surprisingly exist because they have an real world impact, or real world resonance e.g. 1-Click from _Amazon_, so I don't know what qualifies for something like that. I don't want the idea to be stolen and so the __specification__ is **ALREADY** registered in the _electronic Copyright EU_  via blockchain Timestamp, and also in the _US Copyright Office_ via an opened case)
+
 ![prooft](IMG/proof_size1.png)
 
 Having said that... moving on!!!
@@ -80,6 +81,7 @@ The main thing is that **they can be freely moved from side to side or slot, etc
 A program can be pinned to a slot, and then it will only occupy the free space. This way, a user can already have in mind the process areas _background: music, etc._, _services_, _remote connections_, _emails and data entries..._ in a customized way, and __now it can be intuitive from one session to the next__. **There is the option to save each session configuration** so that everything appears exactly as wanted. In each recording, you can ask about the changes since the previous recording and whether you are happy with them or not; although it is not saved by default to increase capacity and freedom of movement in front of the computer without fear of losing what you have set as pinned.
 
 ![trivial-pursuit-commodore-64](IMG/4398335-trivial-pursuit-commodore-64-what-game-is-named-after-the-persia.png)
+
 	Trivial Pursuit for  Commodore-64, image captured by _mobygame_
 
 This further opens the experience to a customizable desktop, with photos and diagrams in the central menu, which we'll discuss as an extension of the idea. Similarly, and following the same logic of natural spatial separation developed here, we can think of the central menu and recall a __certain historical degree of skeuomorphism__.
@@ -92,13 +94,14 @@ This further opens the experience to a customizable desktop, with photos and dia
 
 Pressing on the secondary action or long-pressing the touchscreen on each app running in a _slot_ shows whether it is pinned to the _slot_ and whether it is pre-docked to a _side_. After this, a menu is displayed to do so, whether docking to a _slot_ or a _side_, or even assigning a number to the stack **position**, which will be remembered for the duration of the session; or if saved, for subsequent sessions.
 
-`Super + Tab`: Switches the side
-`Super + Enter`: Changes the current slot to the selected slot (0) on the current side of the stack. Remember that changing the current _slot_ changes the process on the screen. This is why it's necessary to mark (within a box) the selected slot on the stack to facilitate the equivalence with this keyboard shortcut...
-`Super + 0`: Same as `Super + Enter` above. The numbers on the keyboard and calculator zone should work _always_, regardless of the current `Num Lock` option.
-`Super + n`: Changes the selected item in the stack to 0, after which it selects 0.
-`Super + Up, Down`: Same as above, but the selection is not made until the `Super` is released.
-`Super + Left, Right`: Moves through the sockets in that direction and selects them.
-`Super + Shift + []`: Pressing `Shift` does not select the socket, but rather **moves** the current one and _works for all of the above_.
+- `Super + Tab`: Switches the side
+- `Super + Enter`: Changes the current slot to the selected slot (0) on the current side of the stack. Remember that changing the current _slot_ changes the process on the screen. This is why it's necessary to mark (within a box) the selected slot on the stack to facilitate the equivalence with this keyboard shortcut...
+- `Super + 0`: Same as `Super + Enter` above. The numbers on the keyboard and calculator zone should work _always_, regardless of the current `Num Lock` option.
+- `Super + n`: Changes the selected item in the stack to 0, after which it selects 0.
+- `Super + Up, Down`: Same as above, but the selection is not made until the `Super` is released.
+- `Super + Left, Right`: Moves through the sockets in that direction and selects them.
+- `Super + Shift + []`: Pressing `Shift` does not select the socket, but rather **moves** the current one and _works for all of the above_.
+
 There is also a button to _swap_ filling half of the screen with each selected process, or the full screen, in the case of a single-monitor setup.
 
 ### Appendix: Additional Ideas for the central menu and other considerations and achievements
