@@ -94,13 +94,13 @@ This further opens the experience to a customizable desktop, with photos and dia
 
 Pressing on the secondary action or long-pressing the touchscreen on each app running in a _slot_ shows whether it is pinned to the _slot_ and whether it is pre-docked to a _side_. After this, a menu is displayed to do so, whether docking to a _slot_ or a _side_, or even assigning a number to the stack **position**, which will be remembered for the duration of the session; or if saved, for subsequent sessions.
 
-- `Super + Tab`: Switches the side
+- `Super + Tab`: Switches the side. Classic `Alt + Tab` can be the same.
 - `Super + Enter`: Changes the current slot to the selected slot (0) on the current side of the stack. Remember that changing the current _slot_ changes the process on the screen. This is why it's necessary to mark (within a box) the selected slot on the stack to facilitate the equivalence with this keyboard shortcut...
 - `Super + 0`: Same as `Super + Enter` above. The numbers on the keyboard and calculator zone should work _always_, regardless of the current `Num Lock` option.
 - `Super + n`: Changes the selected item in the stack to 0, after which it selects 0.
 - `Super + Up, Down`: Same as above, but the selection is not made until the `Super` is released.
 - `Super + Left, Right`: Moves through the sockets in that direction and selects them.
-- `Super + Shift + []`: Pressing `Shift` does not select the socket, but rather **moves** the current one and _works for all of the above_.
+- `Super + Shift + []`: Pressing `Shift` does not select the socket, but rather **moves** the current one and _works for all of the above_. But to move to the other side it is better not to use `Super + Shift + Tab` since the ergonomics are not good in this, it is **better** `Super + Start / End` or synonym `Super + Page Up / Page Down`, where you can even omit `Shift`
 
 There is also a button to _swap_ filling half of the screen with each selected process, or the full screen, in the case of a single-monitor setup.
 
