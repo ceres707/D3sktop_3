@@ -1,6 +1,6 @@
 **D3sktop-3, a computer system for intuitive interaction between processes**
 
-(N.B: I don't know if it's possible to make an industrial patent out of something like this; it turned out some patents do surprisingly exist because they have an real world impact, or real world resonance e.g. 1-Click from _Amazon_, so I don't know what qualifies for something like that. I don't want the idea to be stolen and so the __specification__ is **ALREADY** registered in the _electronic Copyright EU_  via blockchain Timestamp, and also in the _US Copyright Office_ via an opened case)
+(N.B: I don't know if it's possible to make an industrial patent out of something like this; it turned out some patents do surprisingly exist because they have an real world impact, or real world resonance e.g. 1-Click from _Amazon_, so I don't know what qualifies for something like that. I don't want the idea to be stolen and so the __specification__ is **ALREADY** registered in the _electronic Copyright EU_  via blockchain Timestamp, and also in the _US Copyright Office_ via an opened case. UPDATE 2025-12-31T22:25:10Z Approved, reg date: before creation of this repo, decision date: 2025-12-31Z or before)
 
 ![prooft](IMG/proof_size1.png)
 
